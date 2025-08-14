@@ -1,8 +1,4 @@
 # Estadias_final
-Perfecto 🚀
-Un buen **README.md** en GitHub le va a dar más profesionalismo a tu proyecto y hará que cualquier persona pueda probarlo o entenderlo rápido. Aquí te dejo un borrador completo que puedes copiar, pegar y adaptar:
-
----
 
 ```markdown
 # Organic Quimic Visualizator 🧪💻
@@ -62,18 +58,9 @@ venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
-### 4. Variables de entorno
-
-Crear archivo `.env` en la raíz del proyecto con tu clave de Gemini:
-
-```
-GEMINI_API_KEY=tu_api_key_aqui
-FLASK_ENV=development
-```
-
 > ⚠️ **Nunca subas tu API Key real a GitHub.**
 
-### 5. Ejecutar servidor
+### 4. Ejecutar servidor
 
 ```bash
 python main.py
@@ -113,30 +100,3 @@ http://localhost:5000
 
 ---
 
-## 🔮 Trabajo futuro
-
-* Integrar docking molecular real (AutoDock Vina).
-* Visualización 3D interactiva con **3Dmol.js**.
-* Cache y optimización de consultas RDKit.
-* Pruebas unitarias y despliegue en la nube con HTTPS.
-
----
-
-## 📜 Licencia
-
-Este proyecto es de uso académico. Puedes adaptarlo y mejorarlo bajo licencia MIT.
-
----
-
-## 👨‍💻 Autor
-
-Desarrollado por \[Tu Nombre] como proyecto académico de **Ingeniería en Sistemas Computacionales**.
-
-```
-
----
-
-👉 Con este README quedas súper bien. Incluye: descripción, características, instalación, ejemplo de uso, limitaciones y trabajo futuro.  
-
-¿Quieres que te lo prepare en un archivo **`README.md` listo para subir a tu repo**?
-```
