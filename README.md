@@ -3,8 +3,8 @@
 ```markdown
 # Organic Quimic Visualizator 🧪💻
 
-Aplicación web para la **visualización y análisis de moléculas orgánicas** a partir de cadenas **SMILES**.  
-Integra **RDKit** para cálculos químicos, **Flask-SocketIO** para comunicación en tiempo real, **MediaPipe** para interacción gestual y **Gemini AI** para análisis asistido.
+Aplicación web para la visualización y análisis de moléculas orgánicas a partir de cadenas SMILES.  
+Integra RDKit para cálculos químicos, Flask-SocketIO para comunicación en tiempo real, MediaPipe para interacción gestual y Gemini AI para análisis asistido.
 
 ---
 
